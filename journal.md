@@ -64,8 +64,6 @@ brutal, long, slow, work.
 
 ### 2015-01-24 09:00, sendsubviewtoback, bringsubviewtoback. 
 
-#why
-
  
 
 ### 2015-01-25 09:00, have started to make use of a very simple, very useful pattern, which is "if thing exists, remove it." this lets me reuse my scene-setup code. 
